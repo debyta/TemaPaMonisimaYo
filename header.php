@@ -52,7 +52,16 @@
 	<div class="cabecera">
 		<img src="img/cabecera.png" alt="Pa Monisima Yo">
 	</div>
-
+	<div class="nav-ppal">
+		<ul>
+			<li><a href="#">Inicio</a></li>
+			<li><a href="#">Portfolio</a></li>
+			<li><a href="#">DIY</a></li>
+			<li><a href="#">Freebies</a></li>
+			<li><a href="#">Iniciativas</a></li>
+			<li><a href="#">Sobre mi</a></li>
+		</ul>
+	</div>
 </header>
 </body>
 </html>
